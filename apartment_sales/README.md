@@ -1,4 +1,4 @@
-## [Продажи квартир](apartment_sales.ipynb):
+## [Продажи квартир](https://nbviewer.jupyter.org/github/seamus-88/my_projects0/blob/main/apartment_sales/apartment_sales.ipynb):
 ### Задача
 Проанализировать данные о продажах квартир с целью выяснения аномалий и возможных мошеннических схем
 ### Стек
