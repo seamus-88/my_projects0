@@ -1,4 +1,4 @@
-## [A/B тестирование](AB-test.ipynb):
+## [A/B тестирование](https://nbviewer.jupyter.org/github/seamus-88/my_projects0/blob/main/AB-test/AB-test.ipynb):
 ### Задача
 Применение фреймворков приоритизации гипотез ICE/RICE, анализ результатов A/B
 тестирования.
