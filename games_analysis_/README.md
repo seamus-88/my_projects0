@@ -1,4 +1,4 @@
-## [Определение критериев успешности игры](games_analysis.ipynb):
+## [Определение критериев успешности игры](https://nbviewer.jupyter.org/github/seamus-88/my_projects0/blob/main/games_analysis_/games_analysis.ipynb):
 ### Задача
 Анализ данных о продажах игр из открытых источников
 ### Стек

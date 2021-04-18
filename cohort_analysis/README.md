@@ -1,4 +1,4 @@
-## [Продуктовый анализ Яндекс.Афиши](Cohort_analysis.ipynb):
+## [Продуктовый анализ Яндекс.Афиши](https://nbviewer.jupyter.org/github/seamus-88/my_projects0/blob/main/cohort_analysis/Cohort_analysis.ipynb):
 ### Задача
 Анализ продаж, затрат и окупаемости Яндекс.Афиши за период.
 ### Стек

@@ -1,4 +1,4 @@
-## [Исследование надежности заемщиков](credit_scoring.ipynb):
+## [Исследование надежности заемщиков](https://nbviewer.jupyter.org/github/seamus-88/my_projects0/blob/main/credit_scoring/credit_scoring.ipynb):
 ### Задача
 Проанализировать данные о заемщиках кредитов с целью определения благонадежных
 ### Стек
